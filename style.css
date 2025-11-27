@@ -34,14 +34,12 @@ body {
 }
 
 /* DESAFIO: Estilize o botão especial */
-.destaque :hover{
-    background-color: #ffffff;
-    color: #ca5cfd;
+.destaque{
+    background-color: #530505;
+    color: #6c0909;
     font-weight: bold;
-    border: 1px solid #d54cff;
+    border: 1px solid #790a0a;
     border-radius: 10px;
-
-
 }
 .area-contato {
     margin-top: 30px;
